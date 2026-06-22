@@ -11,5 +11,5 @@ A fun, interactive terminal-based Rock, Paper, Scissors game built using Python 
 1. Open your terminal in the project folder.
 2. Run the command:
    ```bash
-   python main.py
+   python Rock_Paper_Scissor_Game.py
    ```
